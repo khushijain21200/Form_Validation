@@ -43,8 +43,7 @@ This project demonstrates a simple form validation using HTML, CSS, and JavaScri
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/2938b807-a180-4dd2-af8c-d47081bba2d4)
-![image](https://github.com/user-attachments/assets/d8bf14f0-2710-445a-9e95-84bc1d6b31a1)
-
+![image](https://github.com/user-attachments/assets/6c31531f-0639-40b2-a6bd-59ab8cbde3f8)
 
 ## License
 
